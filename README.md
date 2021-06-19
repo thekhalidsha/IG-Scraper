@@ -3,7 +3,7 @@
 Instagram Specific Target Followers Scraper Tool.
 
 It Scrapes the Followers of a Specific Target
-And Output it to the Screen.
+And Output it to the Terminal.
 
 ### Developers
 • **[ABHIRAM VISHNU](https://instagram.com/abhiramvishnu__)** (WH1T3 DUD3)
