@@ -34,3 +34,5 @@ unzip vendor.zip
 ```
 php igscraper.php
 ```
+
+ENJOY!!
