@@ -6,12 +6,12 @@ It Scrapes the Followers of a Specific Target
 And Output it to the Screen.
 
 ### Developers
-• ABHIRAM VISHNU (WH1T3 DUD3)
+• **[ABHIRAM VISHNU](https://instagram.com/abhiramvishnu__)** (WH1T3 DUD3)
 
-• KHALID SHA (CJ)
+• **[KHALID SHA](https://instagram.com/khalid._.sha)** (CJ)
 
 ### Credits
- => MGP25 for the API LIBRARY
+ => **[mgp25](https://github.com/mgp25)** for the API LIBRARY
 
 ### THANKS TO
  => Our Promoters and Subscribers
