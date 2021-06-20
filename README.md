@@ -1,6 +1,6 @@
 # IG-Scraper Tool
 
-Instagram Specific Target Followers Scraper Tool.
+Instagram Multi Random Targets Followers Scraper Tool.
 
 It Scrapes the Followers of a Specific Target
 And Output it to the Terminal.
